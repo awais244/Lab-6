@@ -12,6 +12,11 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/nows-the-time-to-bask-in-the-sunlight/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/
         </loc>
     </url>
@@ -28,6 +33,11 @@
     <url>
         <loc>
             http://localhost:8000/author/_awais24/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/author/isaac-ux-1/
         </loc>
     </url>
 </urlset>
